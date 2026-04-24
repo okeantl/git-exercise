@@ -17,3 +17,10 @@ def check_stock(self):
 
 def update_stock(self):
     pass
+
+
+# ! dawdawaufga# ! dawdawaufga
+
+# ! dawdawaufga
+# ! dawdawaufga
+# ! dawdawaufga# ! dawdawaufga
