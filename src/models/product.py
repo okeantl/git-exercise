@@ -22,4 +22,5 @@ class Product():
         return self.name == other.name and self.price == other.price
 
 
+# ! второй коммент для конфликта 
 # ! коммент для конфликта
