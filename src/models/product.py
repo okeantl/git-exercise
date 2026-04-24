@@ -25,11 +25,9 @@ class Product():
 # ! второй коммент для конфликта 
 # ! коммент для конфликта
 
-#! aghabgfhba
-#! aghabgfhba
 
-#! aghabgfhba
-#! aghabgfhba#! aghabgfhba
-#! aghabgfhba
-#! aghabgfhba
-#! aghabgfhba
+def hello(a):
+    a = "привет мир"
+    print(a)
+    
+hello("")
