@@ -11,3 +11,9 @@ for product in goods:
     print(product)   
 goods = Order(1, 50000, "Иван")
 print(goods)
+
+def check_stock(self):
+    pass
+
+def update_stock(self):
+    pass
