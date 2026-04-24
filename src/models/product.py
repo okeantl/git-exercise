@@ -21,5 +21,5 @@ class Product():
             return False
         return self.name == other.name and self.price == other.price
 
-# ! dawhbfga
-# ! добавил коментарий для конфликта
+
+# ! коммент для конфликта
