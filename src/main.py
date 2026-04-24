@@ -19,8 +19,7 @@ def update_stock(self):
     pass
 
 
-# ! dawdawaufga# ! dawdawaufga
+# ! коммент для коммита
 
-# ! dawdawaufga
-# ! dawdawaufga
-# ! dawdawaufga# ! dawdawaufga
+
+
