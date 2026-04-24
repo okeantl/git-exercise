@@ -19,8 +19,10 @@ def update_stock(self):
     pass
 
 
-# ! dawdawaufga# ! dawdawaufga
+# ! коммент для коммита
+#! второй коммент для коммита
 
-# ! dawdawaufga
-# ! dawdawaufga
-# ! dawdawaufga# ! dawdawaufga
+
+# ! коммент для коммита на главной ветке
+#! создал метод calculate_shipping
+#! добавил дргоуй метод
