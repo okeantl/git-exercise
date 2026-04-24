@@ -20,3 +20,6 @@ class Product():
         if not isinstance(other, Product):
             return False
         return self.name == other.name and self.price == other.price
+
+
+# ! добавил коментарий для конфликта
