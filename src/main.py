@@ -24,3 +24,6 @@ def update_stock(self):
 
 
 # ! коммент для коммита на главной ветке
+
+
+# ! создал метод calculate_shipping
